@@ -1,0 +1,14 @@
+C:\Users\gonza\source\repos\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.exe
+C:\Users\gonza\source\repos\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.deps.json
+C:\Users\gonza\source\repos\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.runtimeconfig.json
+C:\Users\gonza\source\repos\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.dll
+C:\Users\gonza\source\repos\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.pdb
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.AssemblyInfo.cs
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.dll
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\refint\LibroCalificaciones2.dll
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.pdb
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.genruntimeconfig.cache
+C:\Users\gonza\source\repos\LibroCalificaciones2\obj\Debug\net10.0\ref\LibroCalificaciones2.dll

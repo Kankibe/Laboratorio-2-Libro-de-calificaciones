@@ -1,0 +1,14 @@
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\bin\Debug\net10.0\Aplicacion libro de calificacion.exe
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\bin\Debug\net10.0\Aplicacion libro de calificacion.deps.json
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\bin\Debug\net10.0\Aplicacion libro de calificacion.runtimeconfig.json
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\bin\Debug\net10.0\Aplicacion libro de calificacion.dll
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\bin\Debug\net10.0\Aplicacion libro de calificacion.pdb
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\Aplicacion libro de calificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\Aplicacion libro de calificacion.AssemblyInfoInputs.cache
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\Aplicacion libro de calificacion.AssemblyInfo.cs
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\Aplicacion libro de calificacion.csproj.CoreCompileInputs.cache
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\Aplicacion libro de calificacion.dll
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\refint\Aplicacion libro de calificacion.dll
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\Aplicacion libro de calificacion.pdb
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\Aplicacion libro de calificacion.genruntimeconfig.cache
+C:\Users\gonza\source\repos\Aplicacion libro de calificacion\obj\Debug\net10.0\ref\Aplicacion libro de calificacion.dll
