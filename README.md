@@ -1,6 +1,6 @@
 # Laboratorio 2 en C#
 
-Trabajo de la asignatura Herramientas de Programación Aplicada III (.Net), sobre modelado de clases y manejo de atributos mediante propiedades.
+modelado de clases y manejo de atributos mediante propiedades.
 
 ## Contenido
 
