@@ -17,7 +17,7 @@ Este laboratorio corresponde al curso **Herramientas de la Programación Aplicad
 - **Ejercicio 2 — `LibroCalificaciones2`:** Clase `MilibroCalificaciones` con un método `MostrarMensaje(string nombreDelCurso)` que recibe el nombre del curso como parámetro (solicitado al usuario con validación de campo vacío) y lo muestra en el mensaje de bienvenida.
 - **Ejercicio 3 — `LibroCalificaciones_3`:** Clase `LibroCalificaciones` con **constructor** que recibe el nombre del curso y una **propiedad** `NombreCurso` (get/set). Se crean dos instancias distintas y se permite reasignar el nombre del curso ingresado por el usuario, validando que no quede vacío.
 
-## Estructura de Carpetas o Directorios
+## Estructura de Carpetas
 
 ```
 Lab_2/
