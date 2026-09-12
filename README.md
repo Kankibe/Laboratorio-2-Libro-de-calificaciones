@@ -37,4 +37,4 @@ Lab_2/
 - **Nombre:** Kankibe
 - **Institución:** Universidad Tecnológica de Panamá (UTP)
 - **Curso:** Herramientas de la Programación Aplicada III (.Net)
-- **Fecha de Realización:** 12/09/2026
+- **Fecha de Realización:** 7/9/2026
